@@ -1,4 +1,2 @@
 # Ignorer les fichiers CSV
-Input/*.csv
-Output/*.pkl
-Output/*.pth
+*.csv
