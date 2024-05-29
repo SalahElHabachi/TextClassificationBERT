@@ -1,7 +1,7 @@
 # Text Classification using BERT pre-trained model
 This repository contains the code for text classification using pre-trained BERT model.
 ![Consumer Complaint](https://corpbiz.io/learning/wp-content/uploads/2020/03/Consumer-Complaint.jpg)
-Project Overview
+## Project Overview
 Imagine you are a company offering various services or products to your clients. These clients provide feedback without specifying details about the nature of the service or product. Considering you have numerous products that may be similar, it becomes challenging to determine which feedback pertains to which product.
 The solution to this problem is to develop an AI model capable of automatically classifying this feedback according to the different projects.
 
