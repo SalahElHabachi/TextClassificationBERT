@@ -4,6 +4,8 @@ This repository contains the code for text classification using pre-trained BERT
 ## Project Overview
 Imagine you are a company offering various services or products to your clients. These clients provide feedback without specifying details about the nature of the service or product. Considering you have numerous products that may be similar, it becomes challenging to determine which feedback pertains to which product.
 The solution to this problem is to develop an AI model capable of automatically classifying this feedback according to the different projects.
+To achieve this, we have chosen to fine-tune the BERT model using a specific [dataset](https://catalog.data.gov/dataset/consumer-complaint-database), which you can download.
+
 
 ### Installation
 To install the dependencies run:
