@@ -1,2 +1,4 @@
 # Ignorer les fichiers CSV
-*.csv
+Input/*.csv
+Output/*.pkl
+Output/*.pth
