@@ -1,5 +1,6 @@
 # Text Classification using BERT pre-trained model
 This repository contains the code for text classification using pre-trained BERT model.
+![Consumer Complaint](https://corpbiz.io/learning/wp-content/uploads/2020/03/Consumer-Complaint.jpg)
 
 ### Installation
 To install the dependencies run:
